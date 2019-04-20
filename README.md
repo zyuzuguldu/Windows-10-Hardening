@@ -1,6 +1,11 @@
 # Windows-10-Hardening
 
 see: https://hardenwindows10forsecurity.com/
+see: https://www.csoonline.com/article/3148823/10-essential-powershell-security-scripts-for-windows-administrators.html
+see: https://gallery.technet.microsoft.com/scriptcenter/Windows-Server-Hardening-8f9f23df
+see: https://cyber-defense.sans.org/blog/downloads
+
+
 
 **Important note: I update this project infrequently. Anyone who wishes to contribute more frequently is welcome.**
 
