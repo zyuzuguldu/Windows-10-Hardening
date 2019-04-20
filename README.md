@@ -1,5 +1,7 @@
 # Windows-10-Hardening
 
+see: https://hardenwindows10forsecurity.com/
+
 **Important note: I update this project infrequently. Anyone who wishes to contribute more frequently is welcome.**
 
 A collective resource of settings modifications (*mostly opt-outs*) that attempt to make Windows 10 as private and as secure as possible.
